@@ -1,2 +1,4 @@
 # hello-world
-practice
+Hi!
+My name is John.
+
